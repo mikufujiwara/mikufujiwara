@@ -1,9 +1,9 @@
 ### Hi there 👋
-<p>I am <span class="green">*Miku*</span> from 🇯🇵 Japan. </br>
+<p>I am *Miku* from 🇯🇵 Japan. </br>
 
-- 🌱 I’m currently learning React
-- 💻 My dream is to be a front-end developer
-- 🙃 I am a lazy person so I want to make everything as simple as possible</p>
+- 🌱 Currently learning React
+- 💻 Aspiring front-end developer
+- 🙃 Strive for simplicity and efficiency</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikufujiwara&layout=compact)
  
@@ -11,11 +11,6 @@
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikufujiwara&show_icons=true)
 
-<style>
-  .green {
-    color: #00C792;
-  }
-</style>
 
 
 
