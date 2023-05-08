@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I am *<span class="green">Miku</span>* from 🇯🇵 Japan. </br>
+<p>I am <span class="green">*Miku*</span> from 🇯🇵 Japan. </br>
 
 - 🌱 I’m currently learning React
 - 💻 My dream is to be a front-end developer
