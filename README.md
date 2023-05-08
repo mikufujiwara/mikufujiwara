@@ -2,8 +2,8 @@
 Thank you for visiting my GitHub page! I am **Miku** from 🇯🇵 Japan. 
 
 - 🌱 Currently learning **React**
-- 💻 Aspiring front-end developer
-- 🙃 Strive for simplicity and efficienc
+- 💻 Aspiring **front-end developer**
+- 🙃 Strive for **simplicity and efficienc**
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikufujiwara&theme=vue)
  
