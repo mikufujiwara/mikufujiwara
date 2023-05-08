@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h3>I am Miku from Japan 🇯🇵</h3>
-<h3>I want to be a web designer / front-end developer💻</h3>
+<p>I am Miku from Japan 🇯🇵</p>
+<p>I want to be a web designer / front-end developer💻</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikufujiwara&layout=compact)
 
