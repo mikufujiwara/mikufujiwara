@@ -7,7 +7,7 @@ Thank you for visiting my GitHub page! I am **Miku** from 🇯🇵 Japan.
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikufujiwara&theme=vue)
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikufujiwara&show_icons=true) 　　![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikufujiwara&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikufujiwara&show_icons=true)　　![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikufujiwara&layout=compact)
 
 
 
