@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thank you for visiting my GitHub page! I am **Miku** from 🇯🇵 Japan. 
 
-- 🌱 Currently learning React
+- 🌱 Currently learning **React**
 - 💻 Aspiring front-end developer
 - 🙃 Strive for simplicity and efficienc
  
