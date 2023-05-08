@@ -1,9 +1,9 @@
 ### Hi there 👋
-<p>I am _Miku_ from 🇯🇵 Japan. </br>
+I am _Miku_ from 🇯🇵 Japan.
 
 - 🌱 Currently learning React
 - 💻 Aspiring front-end developer
-- 🙃 Strive for simplicity and efficiency</p>
+- 🙃 Strive for simplicity and efficiency
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikufujiwara&layout=compact)
  
