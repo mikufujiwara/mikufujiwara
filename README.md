@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I am <i style="color:#00C792">Miku</i> from 🇯🇵 Japan. </br>
+<p>I am *<span class="green">Miku</span>* from 🇯🇵 Japan. </br>
 
 - 🌱 I’m currently learning React
 - 💻 My dream is to be a front-end developer
@@ -11,6 +11,11 @@
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikufujiwara&show_icons=true)
 
+<style>
+  .green {
+    color: #00C792;
+  }
+</style>
 
 
 
