@@ -3,14 +3,11 @@ Thank you for visiting my GitHub page! I am **Miku** from 🇯🇵 Japan.
 
 - 🌱 Currently learning React
 - 💻 Aspiring front-end developer
-- 🙃 Strive for simplicity and efficiency
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikufujiwara&layout=compact)
+- 🙃 Strive for simplicity and efficienc
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikufujiwara&theme=vue)
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikufujiwara&show_icons=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikufujiwara&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikufujiwara&layout=compact)
 
 
 
