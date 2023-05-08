@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I am *Miku* from 🇯🇵 Japan. </br>
+<p>I am _Miku_ from 🇯🇵 Japan. </br>
 
 - 🌱 Currently learning React
 - 💻 Aspiring front-end developer
