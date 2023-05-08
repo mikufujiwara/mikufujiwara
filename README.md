@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I am <i style=”color:#00C792">Miku</i> from 🇯🇵 Japan. </br>
+<p>I am <i style="color:#00C792">Miku</i> from 🇯🇵 Japan. </br>
 
 - 🌱 I’m currently learning React
 - 💻 My dream is to be a front-end developer
