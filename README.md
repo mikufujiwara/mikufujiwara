@@ -1,6 +1,9 @@
 ### Hi there 👋
-<p>I am Miku from Japan 🇯🇵</p>
-<p>I want to be a web designer / front-end developer💻</p>
+<p>I am Miku from 🇯🇵 Japan. </br>
+
+- 🌱 I’m currently learning React
+- 💻 My dream is to be a front-end developer
+- 🙃 I am a lazy person so I want to make everything as simple as possible</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikufujiwara&layout=compact)
 
