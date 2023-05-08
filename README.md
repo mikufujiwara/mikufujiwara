@@ -6,8 +6,6 @@
 - 🙃 I am a lazy person so I want to make everything as simple as possible</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikufujiwara&layout=compact)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikufujiwara&theme=vue)
  
