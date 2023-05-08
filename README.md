@@ -1,6 +1,7 @@
 ### Hi there 👋
-I am Miku from Japan 🇯🇵
-I want to be a web designer / front-end developer💻
+<h2>I am Miku from Japan 🇯🇵</h2>
+<h3>I want to be a web designer / front-end developer💻</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikufujiwara&layout=compact)
 
 
